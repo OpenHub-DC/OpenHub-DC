@@ -44,7 +44,7 @@ Whether you're new to open source or brushing up for your next internship or GSo
 
 1. **Star this repo** to stay updated ⭐
 2. Fork & clone this repo to your machine
-3. Head to [`/contribute-guide`](./contribute-guide) and follow the steps
+3. Head to [`/contribute-guide`](https://github.com/OpenHub-DC/contribute-guide) and follow the steps
 4. Pick a task from [`/project-ideas`](./project-ideas) or open issues
 5. Open your first Pull Request — we’ll help you through it!
 
