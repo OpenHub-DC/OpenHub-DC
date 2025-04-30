@@ -3,6 +3,13 @@
 Welcome to the official **open source hub** by [Dusra College](https://dusra-college.dev) — a space where aspiring developers, DevOps learners, and remote job seekers come together to **contribute, grow, and launch their careers** through **collaborative open-source projects**.
 
 > 🚀 _"A community-driven initiative by Dusra College to help you build, ship, and stand out."_
+>
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dusracollege.opensourcehub)
+
 
 ---
 
