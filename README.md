@@ -85,9 +85,8 @@ We welcome beginners! Head over to our [Contribution Guide](./contribute-guide) 
 
 ## 📣 Stay Connected
 
-- 💬 [Join Our Discord](https://discord.gg/your-invite)
 - 📸 [Follow Us on Instagram](https://instagram.com/dusracollege)
-- 📨 Subscribe for updates: `hello@dusracollege.dev`
+- 📨 Subscribe for updates: `Dusracollege@gmail.com`
 
 ---
 
